@@ -39,6 +39,7 @@ menu > ul > li > a {
 
 menu > ul > li > a:hover {
     background-color: rgb(173, 173, 173);
+    transition: 0.3s;
 }
 
 #botao-menu {
@@ -52,6 +53,8 @@ menu > ul > li > a:hover {
 #botao-menu:hover {
     background-color: white;
     color: black;
+    font-weight: bolder;
+    transition: 0.4s;
     cursor: pointer;
 }
 
